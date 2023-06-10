@@ -1,0 +1,35 @@
+{
+
+    "error": false,
+
+    "maintainers": [
+
+        {
+
+            "main_maintainer": true,
+
+            "github_username": "shazuxd",
+
+            "name": "ShazuxD"
+
+        }
+
+    ],
+
+    "news_url": "https://t.me/PixelExperience",
+
+    "datetime": "1686368811",
+
+    "filename": "PixelExperience_fleur-13.0-20230610-0346-UNOFFICIAL.zip",
+
+    "id": "b10c9cbe593a62eac79d61b103008f22",
+
+    "size": "1556767786",
+
+    "url": "https://fleur.shazuxd7.workers.dev/0:/ci/PixelExperience_fleur-13.0-20230610-0346-UNOFFICIAL.zip",
+
+    "version": "thirteen",
+
+    "filehash": "7ebd73ca40112258291060dc3325e072e4e299f6eb4bcb8822404c4d7a71bfd9"
+
+}
