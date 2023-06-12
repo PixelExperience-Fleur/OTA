@@ -1,0 +1,6 @@
+12-06-2023:
+- Make the UI smoother
+- Enable GPU as compositor
+- Compact cached app heaps in the background
+- Allow more cached apps in the background
+- Add config_wallpaperMaxScale

@@ -17,19 +17,18 @@
     ],
 
     "news_url": "https://t.me/PixelExperience",
+    "website_url": "https://github.com/PixelExperience-Fleur/OTA/releases",
+    "datetime": "1686560905",
+    "filename": "PixelExperience_fleur-13.0-20230612-1022-UNOFFICIAL.zip",
 
-    "datetime": "1686463643",
+    "id": "37278e3b03cb69f07d1854df21672fe016b21089f6e01e09caee412edb9e6403",
 
-    "filename": "PixelExperience_fleur-13.0-20230611-0708-UNOFFICIAL.zip",
+    "size": "1547614584",
 
-    "id": "6c2cfd20950ac1bbb6d8b7062ac590dd080bbf4b3415935de4d75b61af5e7a13",
-
-    "size": "1556761639",
-
-    "url": "https://fleur.shazuxd7.workers.dev/0:/ci/PixelExperience_fleur-13.0-20230611-0708-UNOFFICIAL.zip",
+    "url": "https://fleur.shazuxd7.workers.dev/0:/ci/PixelExperience_fleur-13.0-20230612-1022-UNOFFICIAL.zip",
 
     "version": "thirteen",
 
-    "filehash": "a1352ac7c9e5868690ee1092d6906531"
+    "filehash": "84cee0eea92e882da2dfa0e8b7aa5052"
 
 }
