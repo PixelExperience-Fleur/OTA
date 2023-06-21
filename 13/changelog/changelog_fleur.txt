@@ -4,3 +4,21 @@
 - Compact cached app heaps in the background
 - Allow more cached apps in the background
 - Add config_wallpaperMaxScale
+- Gcam buffer fix
+- Added Dirac sound enhancer as Xiaomi parts
+- Added zram
+- Disable Skia tracing by default
+- Enable zygote critical window
+- Enable Zygote preforking 
+- Set ro.hwui.render_ahead to 20 frames
+- sched_boost to max level on LAUNCH
+- EXPENSIVE_RENDERING hint 
+- Enable the pre-rendering feature 
+- Disable TTS force stop warnings 
+- Add conversation notification allowlist for more apps
+- Use 4GB dalvik-heap config
+- Updated Hotspot ssid
+
+21-6-23
+- BT Audio Fixed
+- Blacklist Fingerprint Actions
